@@ -4,6 +4,11 @@
 
 webstack for laravel 10 ( php8 )
 
+![](https://github.com/qqun/webstack-laravel10/blob/master/public/assets/home.png?raw=true)
+
+![](https://github.com/qqun/webstack-laravel10/blob/master/public/assets/admin.png?raw=true)
+
+
 相关链接：
 
 前端模版：`https://github.com/WebStackPage/WebStackPage.github.io`
